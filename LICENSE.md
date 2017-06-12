@@ -1,4 +1,4 @@
-The MIT License (MIT)
+The MIT License (Massachusetts Institute of Technology)
 
 Copyright (c) 2014 Jonathan Nicol
 
